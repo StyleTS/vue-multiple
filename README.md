@@ -5,25 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 需要单独运行项目
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run d projectA
 ```
 
-### Run your unit tests
+## 需要单独打包项目
 ```
-npm run test:unit
+npm run b projectA
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
